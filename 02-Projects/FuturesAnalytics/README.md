@@ -5,7 +5,7 @@
 
 ## Overview
 Velez-methodology-based futures trading system. Three layers:
-1. **Methodology database** — Velez setups/rules extracted from YouTube content (v1.28 as of 2026-05-19: 59 setups, 403 universal rules, 82 sources; latest version adds YouTube + transcript links for the 12 wired matcher setups in a new `setup_video_refs` sheet)
+1. **Methodology database** — Velez setups/rules extracted from YouTube content (v1.29 as of 2026-05-19: 59 setups, 403+ universal rules, 82 sources, 74 sheets; v1.29 adds 6 new sheets capturing Greg's video-review findings — three_types_surges, three_types_pauses, elephant_control_regime, bull_move_halves, walk_down_mechanics, no_ft_major_bottom)
 2. **Live trading bot** — Python 3.14, ProjectX/TopstepX API, real-time signal generation via matcher
 3. **Custom dashboard** — localhost web UI ("Cash Command Center") because CME's single-session rule forces one consumer per data feed
 

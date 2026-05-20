@@ -19,7 +19,7 @@ Welcome home. This is your central knowledge base — browse it in Obsidian, and
 
 ## Recently Updated
 
-- **2026-05-19** — [[02-Projects/FuturesAnalytics/README|FuturesAnalytics]]: methodology DB v1.28 shipped with YouTube + transcript links for the 12 wired matcher setups; repo pushed to GitHub (private) with Windows↔Linux dual-boot sync conventions in `PLATFORM_NOTES.md`. v1.29 design captured in `docs/v1.29_design.md` covering Live Funded semi-auto execution path + intra-bar/event-driven matcher cadence (anticipation entries) — sequenced AFTER gate-tightening (HANDOFF backlog #1/#2/#8).
+- **2026-05-19** — [[02-Projects/FuturesAnalytics/README|FuturesAnalytics]]: methodology DB **v1.29** shipped with 6 new sheets incorporating Greg's video-review findings + YouTube/transcript links for the 12 wired matcher setups; repo + Second Brain pushed to GitHub (private) with Windows↔Linux dual-boot sync conventions in `PLATFORM_NOTES.md`. Companion docs in repo: `docs/greg_video_review_findings.md` (Greg's canonical interpretations), `docs/top_rejectors_methodology.md` (gate-by-gate source map), `docs/v1.29_design.md` (Live Funded semi-auto execution + intra-bar matcher cadence) — sequenced AFTER gate-tightening (HANDOFF backlog #1/#2/#8).
 
 ## Agent Routing
 
