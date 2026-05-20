@@ -1,0 +1,19 @@
+# --- Obsidian per-machine state (don't sync across Windows / Linux) ---
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace.json.bak
+.obsidian/cache
+.obsidian/plugins/*/data.json
+.obsidian/graph.json
+
+# Keep the rest of .obsidian/ tracked (themes, hotkeys, app settings,
+# community plugins list) so Windows and Linux start with the same config.
+
+# --- OS noise ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Trash / Obsidian system folders ---
+.trash/
+.obsidian-trash/
